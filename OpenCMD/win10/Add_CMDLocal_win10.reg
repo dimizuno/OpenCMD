@@ -8,7 +8,7 @@ Windows Registry Editor Version 5.00
 
 
 [HKEY_CLASSES_ROOT\Directory\shell\CMDLocal]
-@="@shell32.dll,-8506"
+@="Open Command Window here"
 "Icon"="imageres.dll,-5323"
 "NoWorkingDirectory"=""
 
@@ -20,7 +20,7 @@ Windows Registry Editor Version 5.00
 
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\CMDLocal]
-@="@shell32.dll,-8506"
+@="Open Command Window here"
 "Icon"="imageres.dll,-5323"
 "NoWorkingDirectory"=""
 
@@ -32,7 +32,7 @@ Windows Registry Editor Version 5.00
 
 
 [HKEY_CLASSES_ROOT\Drive\shell\CMDLocal]
-@="@shell32.dll,-8506"
+@="Open Command Window here"
 "Icon"="imageres.dll,-5323"
 "NoWorkingDirectory"=""
 
